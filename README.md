@@ -1,2 +1,2 @@
-# Trabalhos-Ciencia-de-Dados
-Projetos e trabalhos com Python no tratamento, transformação e análise de dados para predição de insights
+#Projeto de Machine Learning para decisão de concessão de crédito
+##Projeto utilizando o método árvore de decisão para calssificar candidatos a c´redito como bons ou maus pagadores.
